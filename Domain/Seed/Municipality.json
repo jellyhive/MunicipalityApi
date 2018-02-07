@@ -1,0 +1,2612 @@
+[
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 114,
+    "MunicipalityCodeOriginal": 114,
+    "Name": "Upplands Väsby",
+    "Latitud": "59,51",
+    "Longitud": "17,92"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 115,
+    "MunicipalityCodeOriginal": 115,
+    "Name": "Vallentuna",
+    "Latitud": "59,55",
+    "Longitud": "18,11"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 117,
+    "MunicipalityCodeOriginal": 117,
+    "Name": "Österåker",
+    "Latitud": "59,48",
+    "Longitud": "18,37"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 120,
+    "MunicipalityCodeOriginal": 120,
+    "Name": "Värmdö",
+    "Latitud": "59,32",
+    "Longitud": "18,54"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 123,
+    "MunicipalityCodeOriginal": 123,
+    "Name": "Järfälla",
+    "Latitud": "59,42",
+    "Longitud": "17,83"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 125,
+    "MunicipalityCodeOriginal": 125,
+    "Name": "Ekerö",
+    "Latitud": "59,31",
+    "Longitud": "17,74"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 126,
+    "MunicipalityCodeOriginal": 126,
+    "Name": "Huddinge",
+    "Latitud": "59,24",
+    "Longitud": "18,01"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 127,
+    "MunicipalityCodeOriginal": 127,
+    "Name": "Botkyrka",
+    "Latitud": "59,21",
+    "Longitud": "17,85"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 128,
+    "MunicipalityCodeOriginal": 128,
+    "Name": "Salem",
+    "Latitud": "59,2",
+    "Longitud": "17,76"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 136,
+    "MunicipalityCodeOriginal": 136,
+    "Name": "Haninge",
+    "Latitud": "59,14",
+    "Longitud": "18,16"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 138,
+    "MunicipalityCodeOriginal": 138,
+    "Name": "Tyresö",
+    "Latitud": "59,24",
+    "Longitud": "18,25"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 139,
+    "MunicipalityCodeOriginal": 139,
+    "Name": "Upplands-Bro",
+    "Latitud": "59,5",
+    "Longitud": "17,7"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 140,
+    "MunicipalityCodeOriginal": 140,
+    "Name": "Nykvarn",
+    "Latitud": "59,18",
+    "Longitud": "17,43"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 160,
+    "MunicipalityCodeOriginal": 160,
+    "Name": "Täby",
+    "Latitud": "59,45",
+    "Longitud": "18,08"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 162,
+    "MunicipalityCodeOriginal": 162,
+    "Name": "Danderyd",
+    "Latitud": "59,4",
+    "Longitud": "18,05"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 163,
+    "MunicipalityCodeOriginal": 163,
+    "Name": "Sollentuna",
+    "Latitud": "59,44",
+    "Longitud": "17,94"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 180,
+    "MunicipalityCodeOriginal": 180,
+    "Name": "Stockholm",
+    "Latitud": "59,32",
+    "Longitud": "18,01"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 181,
+    "MunicipalityCodeOriginal": 181,
+    "Name": "Södertälje",
+    "Latitud": "59,17",
+    "Longitud": "17,6"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 182,
+    "MunicipalityCodeOriginal": 182,
+    "Name": "Nacka",
+    "Latitud": "59,3",
+    "Longitud": "18,21"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 183,
+    "MunicipalityCodeOriginal": 183,
+    "Name": "Sundbyberg",
+    "Latitud": "59,37",
+    "Longitud": "17,96"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 184,
+    "MunicipalityCodeOriginal": 184,
+    "Name": "Solna",
+    "Latitud": "59,36",
+    "Longitud": 18
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 186,
+    "MunicipalityCodeOriginal": 186,
+    "Name": "Lidingö",
+    "Latitud": "59,36",
+    "Longitud": "18,16"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 187,
+    "MunicipalityCodeOriginal": 187,
+    "Name": "Vaxholm",
+    "Latitud": "59,41",
+    "Longitud": "18,34"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 188,
+    "MunicipalityCodeOriginal": 188,
+    "Name": "Norrtälje",
+    "Latitud": "59,82",
+    "Longitud": "18,66"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 191,
+    "MunicipalityCodeOriginal": 191,
+    "Name": "Sigtuna",
+    "Latitud": "59,62",
+    "Longitud": "17,83"
+  },
+  {
+    "CountyCode": 1,
+    "CountyName": "Stockholm",
+    "MunicipalityCode": 192,
+    "MunicipalityCodeOriginal": 192,
+    "Name": "Nynäshamn",
+    "Latitud": "58,95",
+    "Longitud": "17,9"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 305,
+    "MunicipalityCodeOriginal": 305,
+    "Name": "Håbo",
+    "Latitud": "59,59",
+    "Longitud": "17,52"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 319,
+    "MunicipalityCodeOriginal": 319,
+    "Name": "Älvkarleby",
+    "Latitud": "60,61",
+    "Longitud": "17,43"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 330,
+    "MunicipalityCodeOriginal": 330,
+    "Name": "Knivsta",
+    "Latitud": "59,74",
+    "Longitud": "17,81"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 331,
+    "MunicipalityCodeOriginal": 331,
+    "Name": "Heby",
+    "Latitud": "60,01",
+    "Longitud": "16,97"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 360,
+    "MunicipalityCodeOriginal": 360,
+    "Name": "Tierp",
+    "Latitud": "60,36",
+    "Longitud": "17,6"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 380,
+    "MunicipalityCodeOriginal": 380,
+    "Name": "Uppsala",
+    "Latitud": "59,88",
+    "Longitud": "17,64"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 381,
+    "MunicipalityCodeOriginal": 381,
+    "Name": "Enköping",
+    "Latitud": "59,65",
+    "Longitud": "17,11"
+  },
+  {
+    "CountyCode": 3,
+    "CountyName": "Uppsala",
+    "MunicipalityCode": 382,
+    "MunicipalityCodeOriginal": 382,
+    "Name": "Östhammar",
+    "Latitud": "60,22",
+    "Longitud": "18,23"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 428,
+    "MunicipalityCodeOriginal": 428,
+    "Name": "Vingåker",
+    "Latitud": "59,05",
+    "Longitud": "15,89"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 461,
+    "MunicipalityCodeOriginal": 461,
+    "Name": "Gnesta",
+    "Latitud": "59,06",
+    "Longitud": "17,22"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 480,
+    "MunicipalityCodeOriginal": 480,
+    "Name": "Nyköping",
+    "Latitud": "58,77",
+    "Longitud": "16,95"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 481,
+    "MunicipalityCodeOriginal": 481,
+    "Name": "Oxelösund",
+    "Latitud": "58,67",
+    "Longitud": "17,1"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 482,
+    "MunicipalityCodeOriginal": 482,
+    "Name": "Flen",
+    "Latitud": "59,07",
+    "Longitud": "16,63"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 483,
+    "MunicipalityCodeOriginal": 483,
+    "Name": "Katrineholm",
+    "Latitud": "59,01",
+    "Longitud": "16,22"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 484,
+    "MunicipalityCodeOriginal": 484,
+    "Name": "Eskilstuna",
+    "Latitud": "59,36",
+    "Longitud": "16,48"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 486,
+    "MunicipalityCodeOriginal": 486,
+    "Name": "Strängnäs",
+    "Latitud": "59,34",
+    "Longitud": "17,09"
+  },
+  {
+    "CountyCode": 4,
+    "CountyName": "Södermanland",
+    "MunicipalityCode": 488,
+    "MunicipalityCodeOriginal": 488,
+    "Name": "Trosa",
+    "Latitud": "58,9",
+    "Longitud": "17,53"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 509,
+    "MunicipalityCodeOriginal": 509,
+    "Name": "Ödeshög",
+    "Latitud": "58,22",
+    "Longitud": "14,7"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 512,
+    "MunicipalityCodeOriginal": 512,
+    "Name": "Ydre",
+    "Latitud": "57,88",
+    "Longitud": "15,21"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 513,
+    "MunicipalityCodeOriginal": 513,
+    "Name": "Kinda",
+    "Latitud": "58,02",
+    "Longitud": "15,69"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 560,
+    "MunicipalityCodeOriginal": 560,
+    "Name": "Boxholm",
+    "Latitud": "58,19",
+    "Longitud": "15,08"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 561,
+    "MunicipalityCodeOriginal": 561,
+    "Name": "Åtvidaberg",
+    "Latitud": "58,21",
+    "Longitud": "16,03"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 562,
+    "MunicipalityCodeOriginal": 562,
+    "Name": "Finspång",
+    "Latitud": "58,73",
+    "Longitud": "15,77"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 563,
+    "MunicipalityCodeOriginal": 563,
+    "Name": "Valdemarsvik",
+    "Latitud": "58,21",
+    "Longitud": "16,63"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 580,
+    "MunicipalityCodeOriginal": 580,
+    "Name": "Linköping",
+    "Latitud": "58,4",
+    "Longitud": "15,62"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 581,
+    "MunicipalityCodeOriginal": 581,
+    "Name": "Norrköping",
+    "Latitud": "58,59",
+    "Longitud": "16,22"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 582,
+    "MunicipalityCodeOriginal": 582,
+    "Name": "Söderköping",
+    "Latitud": "58,44",
+    "Longitud": "16,37"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 583,
+    "MunicipalityCodeOriginal": 583,
+    "Name": "Motala",
+    "Latitud": "58,55",
+    "Longitud": "15,07"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 584,
+    "MunicipalityCodeOriginal": 584,
+    "Name": "Vadstena",
+    "Latitud": "58,44",
+    "Longitud": "14,86"
+  },
+  {
+    "CountyCode": 5,
+    "CountyName": "Östergötland",
+    "MunicipalityCode": 586,
+    "MunicipalityCodeOriginal": 586,
+    "Name": "Mjölby",
+    "Latitud": "58,34",
+    "Longitud": "15,14"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 604,
+    "MunicipalityCodeOriginal": 604,
+    "Name": "Aneby",
+    "Latitud": "57,88",
+    "Longitud": "14,79"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 617,
+    "MunicipalityCodeOriginal": 617,
+    "Name": "Gnosjö",
+    "Latitud": "57,36",
+    "Longitud": "13,79"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 642,
+    "MunicipalityCodeOriginal": 642,
+    "Name": "Mullsjö",
+    "Latitud": "57,95",
+    "Longitud": "13,86"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 643,
+    "MunicipalityCodeOriginal": 643,
+    "Name": "Habo",
+    "Latitud": "57,93",
+    "Longitud": "14,09"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 662,
+    "MunicipalityCodeOriginal": 662,
+    "Name": "Gislaved",
+    "Latitud": "57,24",
+    "Longitud": "13,51"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 665,
+    "MunicipalityCodeOriginal": 665,
+    "Name": "Vaggeryd",
+    "Latitud": "57,48",
+    "Longitud": "14,13"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 680,
+    "MunicipalityCodeOriginal": 680,
+    "Name": "Jönköping",
+    "Latitud": "57,78",
+    "Longitud": "14,2"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 682,
+    "MunicipalityCodeOriginal": 682,
+    "Name": "Nässjö",
+    "Latitud": "57,63",
+    "Longitud": "14,69"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 683,
+    "MunicipalityCodeOriginal": 683,
+    "Name": "Värnamo",
+    "Latitud": "57,17",
+    "Longitud": "14,08"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 684,
+    "MunicipalityCodeOriginal": 684,
+    "Name": "Sävsjö",
+    "Latitud": "57,37",
+    "Longitud": "14,62"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 685,
+    "MunicipalityCodeOriginal": 685,
+    "Name": "Vetlanda",
+    "Latitud": "57,41",
+    "Longitud": "15,14"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 686,
+    "MunicipalityCodeOriginal": 686,
+    "Name": "Eksjö",
+    "Latitud": "57,64",
+    "Longitud": "15,09"
+  },
+  {
+    "CountyCode": 6,
+    "CountyName": "Jönköping",
+    "MunicipalityCode": 687,
+    "MunicipalityCodeOriginal": 687,
+    "Name": "Tranås",
+    "Latitud": "58,04",
+    "Longitud": "14,95"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 760,
+    "MunicipalityCodeOriginal": 760,
+    "Name": "Uppvidinge",
+    "Latitud": "57,06",
+    "Longitud": "15,46"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 761,
+    "MunicipalityCodeOriginal": 761,
+    "Name": "Lessebo",
+    "Latitud": "56,77",
+    "Longitud": "15,31"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 763,
+    "MunicipalityCodeOriginal": 763,
+    "Name": "Tingsryd",
+    "Latitud": "56,53",
+    "Longitud": 15
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 764,
+    "MunicipalityCodeOriginal": 764,
+    "Name": "Alvesta",
+    "Latitud": "56,89",
+    "Longitud": "14,53"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 765,
+    "MunicipalityCodeOriginal": 765,
+    "Name": "Älmhult",
+    "Latitud": "56,57",
+    "Longitud": "14,16"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 767,
+    "MunicipalityCodeOriginal": 767,
+    "Name": "Markaryd",
+    "Latitud": "56,51",
+    "Longitud": "13,65"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 780,
+    "MunicipalityCodeOriginal": 780,
+    "Name": "Växjö",
+    "Latitud": "56,89",
+    "Longitud": "14,82"
+  },
+  {
+    "CountyCode": 7,
+    "CountyName": "Kronoberg",
+    "MunicipalityCode": 781,
+    "MunicipalityCodeOriginal": 781,
+    "Name": "Ljungby",
+    "Latitud": "56,84",
+    "Longitud": "13,92"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 821,
+    "MunicipalityCodeOriginal": 821,
+    "Name": "Högsby",
+    "Latitud": "57,17",
+    "Longitud": "15,99"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 834,
+    "MunicipalityCodeOriginal": 834,
+    "Name": "Torsås",
+    "Latitud": "56,41",
+    "Longitud": "16,01"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 840,
+    "MunicipalityCodeOriginal": 840,
+    "Name": "Mörbylånga",
+    "Latitud": "56,57",
+    "Longitud": "16,48"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 860,
+    "MunicipalityCodeOriginal": 860,
+    "Name": "Hultsfred",
+    "Latitud": "57,47",
+    "Longitud": "15,83"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 861,
+    "MunicipalityCodeOriginal": 861,
+    "Name": "Mönsterås",
+    "Latitud": "57,02",
+    "Longitud": "16,41"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 862,
+    "MunicipalityCodeOriginal": 862,
+    "Name": "Emmaboda",
+    "Latitud": "56,65",
+    "Longitud": "15,56"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 880,
+    "MunicipalityCodeOriginal": 880,
+    "Name": "Kalmar",
+    "Latitud": "56,67",
+    "Longitud": "16,27"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 881,
+    "MunicipalityCodeOriginal": 881,
+    "Name": "Nybro",
+    "Latitud": "56,76",
+    "Longitud": "15,89"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 882,
+    "MunicipalityCodeOriginal": 882,
+    "Name": "Oskarshamn",
+    "Latitud": "57,29",
+    "Longitud": "16,44"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 883,
+    "MunicipalityCodeOriginal": 883,
+    "Name": "Västervik",
+    "Latitud": "57,79",
+    "Longitud": "16,53"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 884,
+    "MunicipalityCodeOriginal": 884,
+    "Name": "Vimmerby",
+    "Latitud": "57,68",
+    "Longitud": "15,86"
+  },
+  {
+    "CountyCode": 8,
+    "CountyName": "Kalmar",
+    "MunicipalityCode": 885,
+    "MunicipalityCodeOriginal": 885,
+    "Name": "Borgholm",
+    "Latitud": "56,95",
+    "Longitud": "16,77"
+  },
+  {
+    "CountyCode": 9,
+    "CountyName": "Gotland",
+    "MunicipalityCode": 980,
+    "MunicipalityCodeOriginal": 980,
+    "Name": "Gotland",
+    "Latitud": "57,51",
+    "Longitud": "18,47"
+  },
+  {
+    "CountyCode": 10,
+    "CountyName": "Blekinge",
+    "MunicipalityCode": 1060,
+    "MunicipalityCodeOriginal": 1060,
+    "Name": "Olofström",
+    "Latitud": "56,28",
+    "Longitud": "14,53"
+  },
+  {
+    "CountyCode": 10,
+    "CountyName": "Blekinge",
+    "MunicipalityCode": 1080,
+    "MunicipalityCodeOriginal": 1080,
+    "Name": "Karlskrona",
+    "Latitud": "56,19",
+    "Longitud": "15,64"
+  },
+  {
+    "CountyCode": 10,
+    "CountyName": "Blekinge",
+    "MunicipalityCode": 1081,
+    "MunicipalityCodeOriginal": 1081,
+    "Name": "Ronneby",
+    "Latitud": "56,24",
+    "Longitud": "15,27"
+  },
+  {
+    "CountyCode": 10,
+    "CountyName": "Blekinge",
+    "MunicipalityCode": 1082,
+    "MunicipalityCodeOriginal": 1082,
+    "Name": "Karlshamn",
+    "Latitud": "56,21",
+    "Longitud": "14,84"
+  },
+  {
+    "CountyCode": 10,
+    "CountyName": "Blekinge",
+    "MunicipalityCode": 1083,
+    "MunicipalityCodeOriginal": 1083,
+    "Name": "Sölvesborg",
+    "Latitud": "56,05",
+    "Longitud": "14,64"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1214,
+    "MunicipalityCodeOriginal": 1214,
+    "Name": "Svalöv",
+    "Latitud": "55,93",
+    "Longitud": "13,09"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1230,
+    "MunicipalityCodeOriginal": 1230,
+    "Name": "Staffanstorp",
+    "Latitud": "55,65",
+    "Longitud": "13,19"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1231,
+    "MunicipalityCodeOriginal": 1231,
+    "Name": "Burlöv",
+    "Latitud": "55,64",
+    "Longitud": "13,09"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1233,
+    "MunicipalityCodeOriginal": 1233,
+    "Name": "Vellinge",
+    "Latitud": "55,44",
+    "Longitud": "12,96"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1256,
+    "MunicipalityCodeOriginal": 1256,
+    "Name": "Östra Göinge",
+    "Latitud": "56,23",
+    "Longitud": "14,14"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1257,
+    "MunicipalityCodeOriginal": 1257,
+    "Name": "Örkelljunga",
+    "Latitud": "56,28",
+    "Longitud": "13,29"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1260,
+    "MunicipalityCodeOriginal": 1260,
+    "Name": "Bjuv",
+    "Latitud": "56,07",
+    "Longitud": "12,94"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1261,
+    "MunicipalityCodeOriginal": 1261,
+    "Name": "Kävlinge",
+    "Latitud": "55,78",
+    "Longitud": "13,05"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1262,
+    "MunicipalityCodeOriginal": 1262,
+    "Name": "Lomma",
+    "Latitud": "55,69",
+    "Longitud": "13,06"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1263,
+    "MunicipalityCodeOriginal": 1263,
+    "Name": "Svedala",
+    "Latitud": "55,53",
+    "Longitud": "13,23"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1264,
+    "MunicipalityCodeOriginal": 1264,
+    "Name": "Skurup",
+    "Latitud": "55,47",
+    "Longitud": "13,55"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1265,
+    "MunicipalityCodeOriginal": 1265,
+    "Name": "Sjöbo",
+    "Latitud": "55,64",
+    "Longitud": "13,73"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1266,
+    "MunicipalityCodeOriginal": 1266,
+    "Name": "Hörby",
+    "Latitud": "55,85",
+    "Longitud": "13,7"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1267,
+    "MunicipalityCodeOriginal": 1267,
+    "Name": "Höör",
+    "Latitud": "55,94",
+    "Longitud": "13,54"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1270,
+    "MunicipalityCodeOriginal": 1270,
+    "Name": "Tomelilla",
+    "Latitud": "55,59",
+    "Longitud": "13,99"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1272,
+    "MunicipalityCodeOriginal": 1272,
+    "Name": "Bromölla",
+    "Latitud": "56,08",
+    "Longitud": "14,48"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1273,
+    "MunicipalityCodeOriginal": 1273,
+    "Name": "Osby",
+    "Latitud": "56,39",
+    "Longitud": "14,02"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1275,
+    "MunicipalityCodeOriginal": 1275,
+    "Name": "Perstorp",
+    "Latitud": "56,15",
+    "Longitud": "13,39"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1276,
+    "MunicipalityCodeOriginal": 1276,
+    "Name": "Klippan",
+    "Latitud": "56,13",
+    "Longitud": "13,17"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1277,
+    "MunicipalityCodeOriginal": 1277,
+    "Name": "Åstorp",
+    "Latitud": "56,13",
+    "Longitud": "12,94"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1278,
+    "MunicipalityCodeOriginal": 1278,
+    "Name": "Båstad",
+    "Latitud": "56,41",
+    "Longitud": "12,8"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1280,
+    "MunicipalityCodeOriginal": 1280,
+    "Name": "Malmö",
+    "Latitud": "55,58",
+    "Longitud": "13,01"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1281,
+    "MunicipalityCodeOriginal": 1281,
+    "Name": "Lund",
+    "Latitud": "55,7",
+    "Longitud": "13,25"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1282,
+    "MunicipalityCodeOriginal": 1282,
+    "Name": "Landskrona",
+    "Latitud": "55,88",
+    "Longitud": "12,85"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1283,
+    "MunicipalityCodeOriginal": 1283,
+    "Name": "Helsingborg",
+    "Latitud": "56,05",
+    "Longitud": "12,73"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1284,
+    "MunicipalityCodeOriginal": 1284,
+    "Name": "Höganäs",
+    "Latitud": "56,21",
+    "Longitud": "12,58"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1285,
+    "MunicipalityCodeOriginal": 1285,
+    "Name": "Eslöv",
+    "Latitud": "55,83",
+    "Longitud": "13,35"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1286,
+    "MunicipalityCodeOriginal": 1286,
+    "Name": "Ystad",
+    "Latitud": "55,44",
+    "Longitud": "13,84"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1287,
+    "MunicipalityCodeOriginal": 1287,
+    "Name": "Trelleborg",
+    "Latitud": "55,39",
+    "Longitud": "13,22"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1290,
+    "MunicipalityCodeOriginal": 1290,
+    "Name": "Kristianstad",
+    "Latitud": "55,99",
+    "Longitud": "14,14"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1291,
+    "MunicipalityCodeOriginal": 1291,
+    "Name": "Simrishamn",
+    "Latitud": "55,56",
+    "Longitud": "14,24"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1292,
+    "MunicipalityCodeOriginal": 1292,
+    "Name": "Ängelholm",
+    "Latitud": "56,26",
+    "Longitud": "12,89"
+  },
+  {
+    "CountyCode": 12,
+    "CountyName": "Skåne",
+    "MunicipalityCode": 1293,
+    "MunicipalityCodeOriginal": 1293,
+    "Name": "Hässleholm",
+    "Latitud": "56,16",
+    "Longitud": "13,74"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1315,
+    "MunicipalityCodeOriginal": 1315,
+    "Name": "Hylte",
+    "Latitud": "56,99",
+    "Longitud": "13,21"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1380,
+    "MunicipalityCodeOriginal": 1380,
+    "Name": "Halmstad",
+    "Latitud": "56,69",
+    "Longitud": "12,86"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1381,
+    "MunicipalityCodeOriginal": 1381,
+    "Name": "Laholm",
+    "Latitud": "56,49",
+    "Longitud": "13,06"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1382,
+    "MunicipalityCodeOriginal": 1382,
+    "Name": "Falkenberg",
+    "Latitud": "56,94",
+    "Longitud": "12,57"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1383,
+    "MunicipalityCodeOriginal": 1383,
+    "Name": "Varberg",
+    "Latitud": "57,14",
+    "Longitud": "12,3"
+  },
+  {
+    "CountyCode": 13,
+    "CountyName": "Halland",
+    "MunicipalityCode": 1384,
+    "MunicipalityCodeOriginal": 1384,
+    "Name": "Kungsbacka",
+    "Latitud": "57,46",
+    "Longitud": "12,06"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1401,
+    "MunicipalityCodeOriginal": 1401,
+    "Name": "Härryda",
+    "Latitud": "57,67",
+    "Longitud": "12,23"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1402,
+    "MunicipalityCodeOriginal": 1402,
+    "Name": "Partille",
+    "Latitud": "57,73",
+    "Longitud": "12,11"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1407,
+    "MunicipalityCodeOriginal": 1407,
+    "Name": "Öckerö",
+    "Latitud": "57,72",
+    "Longitud": "11,65"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1415,
+    "MunicipalityCodeOriginal": 1415,
+    "Name": "Stenungsund",
+    "Latitud": "58,06",
+    "Longitud": "11,85"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1419,
+    "MunicipalityCodeOriginal": 1419,
+    "Name": "Tjörn",
+    "Latitud": 58,
+    "Longitud": "11,63"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1421,
+    "MunicipalityCodeOriginal": 1421,
+    "Name": "Orust",
+    "Latitud": "58,18",
+    "Longitud": "11,63"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1427,
+    "MunicipalityCodeOriginal": 1427,
+    "Name": "Sotenäs",
+    "Latitud": "58,4",
+    "Longitud": "11,29"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1430,
+    "MunicipalityCodeOriginal": 1430,
+    "Name": "Munkedal",
+    "Latitud": "58,53",
+    "Longitud": "11,69"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1435,
+    "MunicipalityCodeOriginal": 1435,
+    "Name": "Tanum",
+    "Latitud": "58,66",
+    "Longitud": "11,34"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1438,
+    "MunicipalityCodeOriginal": 1438,
+    "Name": "Dals-Ed",
+    "Latitud": "58,92",
+    "Longitud": "11,92"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1439,
+    "MunicipalityCodeOriginal": 1439,
+    "Name": "Färgelanda",
+    "Latitud": "58,6",
+    "Longitud": "12,02"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1440,
+    "MunicipalityCodeOriginal": 1440,
+    "Name": "Ale",
+    "Latitud": "57,92",
+    "Longitud": "12,11"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1441,
+    "MunicipalityCodeOriginal": 1441,
+    "Name": "Lerum",
+    "Latitud": "57,81",
+    "Longitud": "12,31"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1442,
+    "MunicipalityCodeOriginal": 1442,
+    "Name": "Vårgårda",
+    "Latitud": 58,
+    "Longitud": "12,78"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1443,
+    "MunicipalityCodeOriginal": 1443,
+    "Name": "Bollebygd",
+    "Latitud": "57,71",
+    "Longitud": "12,63"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1444,
+    "MunicipalityCodeOriginal": 1444,
+    "Name": "Grästorp",
+    "Latitud": "58,32",
+    "Longitud": "12,67"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1445,
+    "MunicipalityCodeOriginal": 1445,
+    "Name": "Essunga",
+    "Latitud": "58,19",
+    "Longitud": "12,74"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1446,
+    "MunicipalityCodeOriginal": 1446,
+    "Name": "Karlsborg",
+    "Latitud": "58,57",
+    "Longitud": "14,49"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1447,
+    "MunicipalityCodeOriginal": 1447,
+    "Name": "Gullspång",
+    "Latitud": "58,94",
+    "Longitud": "14,13"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1452,
+    "MunicipalityCodeOriginal": 1452,
+    "Name": "Tranemo",
+    "Latitud": "57,52",
+    "Longitud": "13,4"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1460,
+    "MunicipalityCodeOriginal": 1460,
+    "Name": "Bengtsfors",
+    "Latitud": "58,99",
+    "Longitud": "12,21"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1461,
+    "MunicipalityCodeOriginal": 1461,
+    "Name": "Mellerud",
+    "Latitud": "58,72",
+    "Longitud": "12,45"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1462,
+    "MunicipalityCodeOriginal": 1462,
+    "Name": "Lilla Edet",
+    "Latitud": "58,13",
+    "Longitud": "12,14"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1463,
+    "MunicipalityCodeOriginal": 1463,
+    "Name": "Mark",
+    "Latitud": "57,49",
+    "Longitud": "12,61"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1465,
+    "MunicipalityCodeOriginal": 1465,
+    "Name": "Svenljunga",
+    "Latitud": "57,45",
+    "Longitud": "13,07"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1466,
+    "MunicipalityCodeOriginal": 1466,
+    "Name": "Herrljunga",
+    "Latitud": "58,03",
+    "Longitud": "13,07"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1470,
+    "MunicipalityCodeOriginal": 1470,
+    "Name": "Vara",
+    "Latitud": "58,26",
+    "Longitud": "13,02"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1471,
+    "MunicipalityCodeOriginal": 1471,
+    "Name": "Götene",
+    "Latitud": "58,55",
+    "Longitud": "13,46"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1472,
+    "MunicipalityCodeOriginal": 1472,
+    "Name": "Tibro",
+    "Latitud": "58,43",
+    "Longitud": "14,19"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1473,
+    "MunicipalityCodeOriginal": 1473,
+    "Name": "Töreboda",
+    "Latitud": "58,7",
+    "Longitud": "14,14"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1480,
+    "MunicipalityCodeOriginal": 1480,
+    "Name": "Göteborg",
+    "Latitud": "57,71",
+    "Longitud": "11,95"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1481,
+    "MunicipalityCodeOriginal": 1481,
+    "Name": "Mölndal",
+    "Latitud": "57,63",
+    "Longitud": "12,03"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1482,
+    "MunicipalityCodeOriginal": 1482,
+    "Name": "Kungälv",
+    "Latitud": "57,88",
+    "Longitud": "11,89"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1484,
+    "MunicipalityCodeOriginal": 1484,
+    "Name": "Lysekil",
+    "Latitud": "58,31",
+    "Longitud": "11,45"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1485,
+    "MunicipalityCodeOriginal": 1485,
+    "Name": "Uddevalla",
+    "Latitud": "58,33",
+    "Longitud": "11,9"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1486,
+    "MunicipalityCodeOriginal": 1486,
+    "Name": "Strömstad",
+    "Latitud": "58,94",
+    "Longitud": "11,18"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1487,
+    "MunicipalityCodeOriginal": 1487,
+    "Name": "Vänersborg",
+    "Latitud": "58,4",
+    "Longitud": "12,33"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1488,
+    "MunicipalityCodeOriginal": 1488,
+    "Name": "Trollhättan",
+    "Latitud": "58,26",
+    "Longitud": "12,3"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1489,
+    "MunicipalityCodeOriginal": 1489,
+    "Name": "Alingsås",
+    "Latitud": "57,96",
+    "Longitud": "12,53"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1490,
+    "MunicipalityCodeOriginal": 1490,
+    "Name": "Borås",
+    "Latitud": "57,73",
+    "Longitud": "12,95"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1491,
+    "MunicipalityCodeOriginal": 1491,
+    "Name": "Ulricehamn",
+    "Latitud": "57,8",
+    "Longitud": "13,44"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1492,
+    "MunicipalityCodeOriginal": 1492,
+    "Name": "Åmål",
+    "Latitud": "59,02",
+    "Longitud": "12,67"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1493,
+    "MunicipalityCodeOriginal": 1493,
+    "Name": "Mariestad",
+    "Latitud": "58,71",
+    "Longitud": "13,85"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1494,
+    "MunicipalityCodeOriginal": 1494,
+    "Name": "Lidköping",
+    "Latitud": "58,49",
+    "Longitud": "13,1"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1495,
+    "MunicipalityCodeOriginal": 1495,
+    "Name": "Skara",
+    "Latitud": "58,38",
+    "Longitud": "13,47"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1496,
+    "MunicipalityCodeOriginal": 1496,
+    "Name": "Skövde",
+    "Latitud": "58,41",
+    "Longitud": "13,87"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1497,
+    "MunicipalityCodeOriginal": 1497,
+    "Name": "Hjo",
+    "Latitud": "58,3",
+    "Longitud": "14,29"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1498,
+    "MunicipalityCodeOriginal": 1498,
+    "Name": "Tidaholm",
+    "Latitud": "58,19",
+    "Longitud": "13,98"
+  },
+  {
+    "CountyCode": 14,
+    "CountyName": "Västra Götaland",
+    "MunicipalityCode": 1499,
+    "MunicipalityCodeOriginal": 1499,
+    "Name": "Falköping",
+    "Latitud": "58,16",
+    "Longitud": "13,55"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1715,
+    "MunicipalityCodeOriginal": 1715,
+    "Name": "Kil",
+    "Latitud": "59,53",
+    "Longitud": "13,29"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1730,
+    "MunicipalityCodeOriginal": 1730,
+    "Name": "Eda",
+    "Latitud": "59,86",
+    "Longitud": "12,24"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1737,
+    "MunicipalityCodeOriginal": 1737,
+    "Name": "Torsby",
+    "Latitud": "60,38",
+    "Longitud": "12,94"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1760,
+    "MunicipalityCodeOriginal": 1760,
+    "Name": "Storfors",
+    "Latitud": "59,51",
+    "Longitud": "14,28"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1761,
+    "MunicipalityCodeOriginal": 1761,
+    "Name": "Hammarö",
+    "Latitud": "59,32",
+    "Longitud": "13,51"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1762,
+    "MunicipalityCodeOriginal": 1762,
+    "Name": "Munkfors",
+    "Latitud": "59,83",
+    "Longitud": "13,53"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1763,
+    "MunicipalityCodeOriginal": 1763,
+    "Name": "Forshaga",
+    "Latitud": "59,57",
+    "Longitud": "13,48"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1764,
+    "MunicipalityCodeOriginal": 1764,
+    "Name": "Grums",
+    "Latitud": "59,36",
+    "Longitud": "13,06"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1765,
+    "MunicipalityCodeOriginal": 1765,
+    "Name": "Årjäng",
+    "Latitud": "59,41",
+    "Longitud": "12,1"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1766,
+    "MunicipalityCodeOriginal": 1766,
+    "Name": "Sunne",
+    "Latitud": "59,86",
+    "Longitud": "13,14"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1780,
+    "MunicipalityCodeOriginal": 1780,
+    "Name": "Karlstad",
+    "Latitud": "59,4",
+    "Longitud": "13,52"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1781,
+    "MunicipalityCodeOriginal": 1781,
+    "Name": "Kristinehamn",
+    "Latitud": "59,28",
+    "Longitud": "14,11"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1782,
+    "MunicipalityCodeOriginal": 1782,
+    "Name": "Filipstad",
+    "Latitud": "59,75",
+    "Longitud": "14,18"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1783,
+    "MunicipalityCodeOriginal": 1783,
+    "Name": "Hagfors",
+    "Latitud": "60,04",
+    "Longitud": "13,62"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1784,
+    "MunicipalityCodeOriginal": 1784,
+    "Name": "Arvika",
+    "Latitud": "59,66",
+    "Longitud": "12,62"
+  },
+  {
+    "CountyCode": 17,
+    "CountyName": "Värmland",
+    "MunicipalityCode": 1785,
+    "MunicipalityCodeOriginal": 1785,
+    "Name": "Säffle",
+    "Latitud": "59,16",
+    "Longitud": "12,87"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1814,
+    "MunicipalityCodeOriginal": 1814,
+    "Name": "Lekeberg",
+    "Latitud": "59,18",
+    "Longitud": "14,83"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1860,
+    "MunicipalityCodeOriginal": 1860,
+    "Name": "Laxå",
+    "Latitud": "58,94",
+    "Longitud": "14,56"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1861,
+    "MunicipalityCodeOriginal": 1861,
+    "Name": "Hallsberg",
+    "Latitud": "59,04",
+    "Longitud": "15,18"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1862,
+    "MunicipalityCodeOriginal": 1862,
+    "Name": "Degerfors",
+    "Latitud": "59,19",
+    "Longitud": "14,43"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1863,
+    "MunicipalityCodeOriginal": 1863,
+    "Name": "Hällefors",
+    "Latitud": "59,76",
+    "Longitud": "14,56"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1864,
+    "MunicipalityCodeOriginal": 1864,
+    "Name": "Ljusnarsberg",
+    "Latitud": "59,91",
+    "Longitud": "14,97"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1880,
+    "MunicipalityCodeOriginal": 1880,
+    "Name": "Örebro",
+    "Latitud": "59,27",
+    "Longitud": "15,22"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1881,
+    "MunicipalityCodeOriginal": 1881,
+    "Name": "Kumla",
+    "Latitud": "59,12",
+    "Longitud": "15,16"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1882,
+    "MunicipalityCodeOriginal": 1882,
+    "Name": "Askersund",
+    "Latitud": "58,88",
+    "Longitud": "14,99"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1883,
+    "MunicipalityCodeOriginal": 1883,
+    "Name": "Karlskoga",
+    "Latitud": "59,33",
+    "Longitud": "14,52"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1884,
+    "MunicipalityCodeOriginal": 1884,
+    "Name": "Nora",
+    "Latitud": "59,54",
+    "Longitud": "14,98"
+  },
+  {
+    "CountyCode": 18,
+    "CountyName": "Örebro",
+    "MunicipalityCode": 1885,
+    "MunicipalityCodeOriginal": 1885,
+    "Name": "Lindesberg",
+    "Latitud": "59,59",
+    "Longitud": "15,29"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1904,
+    "MunicipalityCodeOriginal": 1904,
+    "Name": "Skinnskatteberg",
+    "Latitud": "59,78",
+    "Longitud": "15,74"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1907,
+    "MunicipalityCodeOriginal": 1907,
+    "Name": "Surahammar",
+    "Latitud": "59,73",
+    "Longitud": "16,2"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1960,
+    "MunicipalityCodeOriginal": 1960,
+    "Name": "Kungsör",
+    "Latitud": "59,43",
+    "Longitud": "16,08"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1961,
+    "MunicipalityCodeOriginal": 1961,
+    "Name": "Hallstahammar",
+    "Latitud": "59,6",
+    "Longitud": "16,24"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1962,
+    "MunicipalityCodeOriginal": 1962,
+    "Name": "Norberg",
+    "Latitud": "60,08",
+    "Longitud": "15,95"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1980,
+    "MunicipalityCodeOriginal": 1980,
+    "Name": "Västerås",
+    "Latitud": "59,62",
+    "Longitud": "16,54"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1981,
+    "MunicipalityCodeOriginal": 1981,
+    "Name": "Sala",
+    "Latitud": "59,92",
+    "Longitud": "16,55"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1982,
+    "MunicipalityCodeOriginal": 1982,
+    "Name": "Fagersta",
+    "Latitud": "59,99",
+    "Longitud": "15,82"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1983,
+    "MunicipalityCodeOriginal": 1983,
+    "Name": "Köping",
+    "Latitud": "59,53",
+    "Longitud": "15,97"
+  },
+  {
+    "CountyCode": 19,
+    "CountyName": "Västmanland",
+    "MunicipalityCode": 1984,
+    "MunicipalityCodeOriginal": 1984,
+    "Name": "Arboga",
+    "Latitud": "59,38",
+    "Longitud": "15,82"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2021,
+    "MunicipalityCodeOriginal": 2021,
+    "Name": "Vansbro",
+    "Latitud": "60,46",
+    "Longitud": "14,31"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2023,
+    "MunicipalityCodeOriginal": 2023,
+    "Name": "Malung-Sälen",
+    "Latitud": "60,76",
+    "Longitud": "13,59"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2026,
+    "MunicipalityCodeOriginal": 2026,
+    "Name": "Gagnef",
+    "Latitud": "60,53",
+    "Longitud": "15,03"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2029,
+    "MunicipalityCodeOriginal": 2029,
+    "Name": "Leksand",
+    "Latitud": "60,72",
+    "Longitud": "15,02"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2031,
+    "MunicipalityCodeOriginal": 2031,
+    "Name": "Rättvik",
+    "Latitud": "60,94",
+    "Longitud": "15,14"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2034,
+    "MunicipalityCodeOriginal": 2034,
+    "Name": "Orsa",
+    "Latitud": "61,14",
+    "Longitud": "14,69"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2039,
+    "MunicipalityCodeOriginal": 2039,
+    "Name": "Älvdalen",
+    "Latitud": "61,44",
+    "Longitud": "13,52"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2061,
+    "MunicipalityCodeOriginal": 2061,
+    "Name": "Smedjebacken",
+    "Latitud": "60,12",
+    "Longitud": "15,42"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2062,
+    "MunicipalityCodeOriginal": 2062,
+    "Name": "Mora",
+    "Latitud": 61,
+    "Longitud": "14,47"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2080,
+    "MunicipalityCodeOriginal": 2080,
+    "Name": "Falun",
+    "Latitud": "60,63",
+    "Longitud": "15,66"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2081,
+    "MunicipalityCodeOriginal": 2081,
+    "Name": "Borlänge",
+    "Latitud": "60,49",
+    "Longitud": "15,43"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2082,
+    "MunicipalityCodeOriginal": 2082,
+    "Name": "Säter",
+    "Latitud": "60,36",
+    "Longitud": "15,7"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2083,
+    "MunicipalityCodeOriginal": 2083,
+    "Name": "Hedemora",
+    "Latitud": "60,31",
+    "Longitud": 16
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2084,
+    "MunicipalityCodeOriginal": 2084,
+    "Name": "Avesta",
+    "Latitud": "60,16",
+    "Longitud": "16,24"
+  },
+  {
+    "CountyCode": 20,
+    "CountyName": "Dalarna",
+    "MunicipalityCode": 2085,
+    "MunicipalityCodeOriginal": 2085,
+    "Name": "Ludvika",
+    "Latitud": "60,16",
+    "Longitud": "15,1"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2101,
+    "MunicipalityCodeOriginal": 2101,
+    "Name": "Ockelbo",
+    "Latitud": "60,9",
+    "Longitud": "16,66"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2104,
+    "MunicipalityCodeOriginal": 2104,
+    "Name": "Hofors",
+    "Latitud": "60,53",
+    "Longitud": "16,35"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2121,
+    "MunicipalityCodeOriginal": 2121,
+    "Name": "Ovanåker",
+    "Latitud": "61,39",
+    "Longitud": "15,86"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2132,
+    "MunicipalityCodeOriginal": 2132,
+    "Name": "Nordanstig",
+    "Latitud": "61,97",
+    "Longitud": "17,14"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2161,
+    "MunicipalityCodeOriginal": 2161,
+    "Name": "Ljusdal",
+    "Latitud": "61,81",
+    "Longitud": "15,77"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2180,
+    "MunicipalityCodeOriginal": 2180,
+    "Name": "Gävle",
+    "Latitud": "60,69",
+    "Longitud": "17,14"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2181,
+    "MunicipalityCodeOriginal": 2181,
+    "Name": "Sandviken",
+    "Latitud": "60,6",
+    "Longitud": "16,7"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2182,
+    "MunicipalityCodeOriginal": 2182,
+    "Name": "Söderhamn",
+    "Latitud": "61,28",
+    "Longitud": "17,02"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2183,
+    "MunicipalityCodeOriginal": 2183,
+    "Name": "Bollnäs",
+    "Latitud": "61,35",
+    "Longitud": "16,42"
+  },
+  {
+    "CountyCode": 21,
+    "CountyName": "Gävleborg",
+    "MunicipalityCode": 2184,
+    "MunicipalityCodeOriginal": 2184,
+    "Name": "Hudiksvall",
+    "Latitud": "61,71",
+    "Longitud": "17,01"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2260,
+    "MunicipalityCodeOriginal": 2260,
+    "Name": "Ånge",
+    "Latitud": "62,5",
+    "Longitud": "15,67"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2262,
+    "MunicipalityCodeOriginal": 2262,
+    "Name": "Timrå",
+    "Latitud": "62,52",
+    "Longitud": "17,35"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2280,
+    "MunicipalityCodeOriginal": 2280,
+    "Name": "Härnösand",
+    "Latitud": "62,65",
+    "Longitud": "17,88"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2281,
+    "MunicipalityCodeOriginal": 2281,
+    "Name": "Sundsvall",
+    "Latitud": "62,39",
+    "Longitud": "17,29"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2282,
+    "MunicipalityCodeOriginal": 2282,
+    "Name": "Kramfors",
+    "Latitud": "62,95",
+    "Longitud": "17,88"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2283,
+    "MunicipalityCodeOriginal": 2283,
+    "Name": "Sollefteå",
+    "Latitud": "63,25",
+    "Longitud": "17,11"
+  },
+  {
+    "CountyCode": 22,
+    "CountyName": "Västernorrland",
+    "MunicipalityCode": 2284,
+    "MunicipalityCodeOriginal": 2284,
+    "Name": "Örnsköldsvik",
+    "Latitud": "63,33",
+    "Longitud": "18,59"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2303,
+    "MunicipalityCodeOriginal": 2303,
+    "Name": "Ragunda",
+    "Latitud": "63,14",
+    "Longitud": "16,22"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2305,
+    "MunicipalityCodeOriginal": 2305,
+    "Name": "Bräcke",
+    "Latitud": "62,87",
+    "Longitud": "15,58"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2309,
+    "MunicipalityCodeOriginal": 2309,
+    "Name": "Krokom",
+    "Latitud": "63,43",
+    "Longitud": "14,33"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2313,
+    "MunicipalityCodeOriginal": 2313,
+    "Name": "Strömsund",
+    "Latitud": "64,11",
+    "Longitud": "15,39"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2321,
+    "MunicipalityCodeOriginal": 2321,
+    "Name": "Åre",
+    "Latitud": "63,29",
+    "Longitud": "13,16"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2326,
+    "MunicipalityCodeOriginal": 2326,
+    "Name": "Berg",
+    "Latitud": "62,74",
+    "Longitud": "13,93"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2361,
+    "MunicipalityCodeOriginal": 2361,
+    "Name": "Härjedalen",
+    "Latitud": "62,25",
+    "Longitud": "13,64"
+  },
+  {
+    "CountyCode": 23,
+    "CountyName": "Jämtland",
+    "MunicipalityCode": 2380,
+    "MunicipalityCodeOriginal": 2380,
+    "Name": "Östersund",
+    "Latitud": "63,16",
+    "Longitud": "14,7"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2401,
+    "MunicipalityCodeOriginal": 2401,
+    "Name": "Nordmaling",
+    "Latitud": "63,62",
+    "Longitud": "19,46"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2403,
+    "MunicipalityCodeOriginal": 2403,
+    "Name": "Bjurholm",
+    "Latitud": "63,94",
+    "Longitud": "19,13"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2404,
+    "MunicipalityCodeOriginal": 2404,
+    "Name": "Vindeln",
+    "Latitud": "64,29",
+    "Longitud": "19,56"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2409,
+    "MunicipalityCodeOriginal": 2409,
+    "Name": "Robertsfors",
+    "Latitud": "64,22",
+    "Longitud": "20,82"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2417,
+    "MunicipalityCodeOriginal": 2417,
+    "Name": "Norsjö",
+    "Latitud": "64,91",
+    "Longitud": "19,51"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2418,
+    "MunicipalityCodeOriginal": 2418,
+    "Name": "Malå",
+    "Latitud": "65,18",
+    "Longitud": "18,73"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2421,
+    "MunicipalityCodeOriginal": 2421,
+    "Name": "Storuman",
+    "Latitud": "65,26",
+    "Longitud": "16,65"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2422,
+    "MunicipalityCodeOriginal": 2422,
+    "Name": "Sorsele",
+    "Latitud": "65,54",
+    "Longitud": "17,28"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2425,
+    "MunicipalityCodeOriginal": 2425,
+    "Name": "Dorotea",
+    "Latitud": "64,37",
+    "Longitud": "16,24"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2460,
+    "MunicipalityCodeOriginal": 2460,
+    "Name": "Vännäs",
+    "Latitud": "63,92",
+    "Longitud": "19,76"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2462,
+    "MunicipalityCodeOriginal": 2462,
+    "Name": "Vilhelmina",
+    "Latitud": "64,81",
+    "Longitud": "16,31"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2463,
+    "MunicipalityCodeOriginal": 2463,
+    "Name": "Åsele",
+    "Latitud": "64,16",
+    "Longitud": "17,59"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2480,
+    "MunicipalityCodeOriginal": 2480,
+    "Name": "Umeå",
+    "Latitud": "63,84",
+    "Longitud": "20,26"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2481,
+    "MunicipalityCodeOriginal": 2481,
+    "Name": "Lycksele",
+    "Latitud": "64,67",
+    "Longitud": "18,61"
+  },
+  {
+    "CountyCode": 24,
+    "CountyName": "Västerbotten",
+    "MunicipalityCode": 2482,
+    "MunicipalityCodeOriginal": 2482,
+    "Name": "Skellefteå",
+    "Latitud": "64,74",
+    "Longitud": "20,88"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2505,
+    "MunicipalityCodeOriginal": 2505,
+    "Name": "Arvidsjaur",
+    "Latitud": "65,6",
+    "Longitud": "19,27"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2506,
+    "MunicipalityCodeOriginal": 2506,
+    "Name": "Arjeplog",
+    "Latitud": "66,07",
+    "Longitud": "17,43"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2510,
+    "MunicipalityCodeOriginal": 2510,
+    "Name": "Jokkmokk",
+    "Latitud": "66,61",
+    "Longitud": "19,67"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2513,
+    "MunicipalityCodeOriginal": 2513,
+    "Name": "Överkalix",
+    "Latitud": "66,43",
+    "Longitud": "22,61"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2514,
+    "MunicipalityCodeOriginal": 2514,
+    "Name": "Kalix",
+    "Latitud": "65,85",
+    "Longitud": "23,13"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2518,
+    "MunicipalityCodeOriginal": 2518,
+    "Name": "Övertorneå",
+    "Latitud": "66,46",
+    "Longitud": "23,52"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2521,
+    "MunicipalityCodeOriginal": 2521,
+    "Name": "Pajala",
+    "Latitud": "67,31",
+    "Longitud": "22,9"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2523,
+    "MunicipalityCodeOriginal": 2523,
+    "Name": "Gällivare",
+    "Latitud": "67,1",
+    "Longitud": "20,94"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2560,
+    "MunicipalityCodeOriginal": 2560,
+    "Name": "Älvsbyn",
+    "Latitud": "65,7",
+    "Longitud": "20,87"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2580,
+    "MunicipalityCodeOriginal": 2580,
+    "Name": "Luleå",
+    "Latitud": "65,63",
+    "Longitud": "22,16"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2581,
+    "MunicipalityCodeOriginal": 2581,
+    "Name": "Piteå",
+    "Latitud": "65,34",
+    "Longitud": "21,36"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2582,
+    "MunicipalityCodeOriginal": 2582,
+    "Name": "Boden",
+    "Latitud": "65,85",
+    "Longitud": "21,63"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2583,
+    "MunicipalityCodeOriginal": 2583,
+    "Name": "Haparanda",
+    "Latitud": "65,86",
+    "Longitud": "23,98"
+  },
+  {
+    "CountyCode": 25,
+    "CountyName": "Norrbotten",
+    "MunicipalityCode": 2584,
+    "MunicipalityCodeOriginal": 2584,
+    "Name": "Kiruna",
+    "Latitud": "67,95",
+    "Longitud": "20,25"
+  }
+]

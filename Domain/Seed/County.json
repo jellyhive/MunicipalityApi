@@ -1,0 +1,86 @@
+[
+  {
+    "CountyCode": 1,
+    "Name": "Stockholm"
+  },
+  {
+    "CountyCode": 3,
+    "Name": "Uppsala"
+  },
+  {
+    "CountyCode": 4,
+    "Name": "Södermanland"
+  },
+  {
+    "CountyCode": 5,
+    "Name": "Östergötland"
+  },
+  {
+    "CountyCode": 6,
+    "Name": "Jönköping"
+  },
+  {
+    "CountyCode": 7,
+    "Name": "Kronoberg"
+  },
+  {
+    "CountyCode": 8,
+    "Name": "Kalmar"
+  },
+  {
+    "CountyCode": 9,
+    "Name": "Gotland"
+  },
+  {
+    "CountyCode": 10,
+    "Name": "Blekinge"
+  },
+  {
+    "CountyCode": 12,
+    "Name": "Skåne"
+  },
+  {
+    "CountyCode": 13,
+    "Name": "Halland"
+  },
+  {
+    "CountyCode": 14,
+    "Name": "Västra Götaland"
+  },
+  {
+    "CountyCode": 17,
+    "Name": "Värmland"
+  },
+  {
+    "CountyCode": 18,
+    "Name": "Örebro"
+  },
+  {
+    "CountyCode": 19,
+    "Name": "Västmanland"
+  },
+  {
+    "CountyCode": 20,
+    "Name": "Dalarna"
+  },
+  {
+    "CountyCode": 21,
+    "Name": "Gävleborg"
+  },
+  {
+    "CountyCode": 22,
+    "Name": "Västernorrland"
+  },
+  {
+    "CountyCode": 23,
+    "Name": "Jämtland"
+  },
+  {
+    "CountyCode": 24,
+    "Name": "Västerbotten"
+  },
+  {
+    "CountyCode": 25,
+    "Name": "Norrbotten"
+  }
+]
